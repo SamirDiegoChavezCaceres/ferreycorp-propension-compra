@@ -4,6 +4,8 @@ Prueba técnica de Data Science: modelo de propensión de compra por cliente a p
 de datos de visitas y comportamiento, con clusterización de clientes, modelado
 supervisado y traducción de resultados a valor de negocio.
 
+### [Ver presentación en video](https://docs.google.com/presentation/d/1yNZnDFqgcRHBiGUSFnQ-R76oppI28tl9/edit?usp=sharing&ouid=118191480596536434285&rtpof=true&sd=true)
+
 ## Entregables
 
 | Archivo | Contenido |
@@ -53,7 +55,3 @@ ejemplos de consulta (`curl`) y el diseño de una arquitectura de producción co
 Vertex AI están documentados en la sección 6 y 7 de `Documentacion_Solucion.pdf`.
 El código de esa API está en `serving/` y la infraestructura que lo despliega en
 `infra/` (Terraform).
-
-## Video de presentación
-
-[Presentación en video](https://docs.google.com/presentation/d/1yNZnDFqgcRHBiGUSFnQ-R76oppI28tl9/edit?usp=sharing&ouid=118191480596536434285&rtpof=true&sd=true)
