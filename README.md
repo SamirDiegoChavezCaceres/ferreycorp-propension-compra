@@ -11,7 +11,8 @@ supervisado y traducción de resultados a valor de negocio.
 | `FERREYCORP_Propension_Compra.ipynb` | Notebook completo: EDA, feature engineering, clustering, modelado, tuning, SHAP y captura de valor |
 | `Codigo_Solucion.txt` | Exportación en texto plano del notebook (código + markdown) |
 | `Documentacion_Solucion.pdf` | Documentación de la solución: objetivo, arquitectura, metodología, resultados, impacto de negocio, despliegue y arquitectura de producción propuesta |
-| `Slides_Ferreycorp.pdf` | Presentación ejecutiva (7 slides) |
+| `Slides_Ferreycorp.pptx` | Presentación ejecutiva (7 slides, editable) |
+| `Slides_Ferreycorp.pptx.pdf` | Presentación ejecutiva en PDF |
 | `serving/` | API de scoring (FastAPI) usada para el despliegue demo |
 | `infra/` | Infraestructura como código (Terraform) del despliegue demo en Cloud Run |
 | `assets/` | Imágenes de resultados embebidas en la documentación |
@@ -52,3 +53,7 @@ ejemplos de consulta (`curl`) y el diseño de una arquitectura de producción co
 Vertex AI están documentados en la sección 6 y 7 de `Documentacion_Solucion.pdf`.
 El código de esa API está en `serving/` y la infraestructura que lo despliega en
 `infra/` (Terraform).
+
+## Video de presentación
+
+[Presentación en video](https://docs.google.com/presentation/d/1yNZnDFqgcRHBiGUSFnQ-R76oppI28tl9/edit?usp=sharing&ouid=118191480596536434285&rtpof=true&sd=true)
